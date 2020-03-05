@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://renmai-public-bestriver-pro.cn-bj.ufileos.com/YM.ipa</string>
+					<string>https://baichuanwebapp-beta.renmaitech.com/YM.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://renmai-public-bestriver-pro.cn-bj.ufileos.com/smailLogo.png</string>
+					<string>https://baichuanwebapp-beta.renmaitech.com/smailLogo.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://renmai-public-bestriver-pro.cn-bj.ufileos.com/bigLogo.png</string>
+					<string>https://baichuanwebapp-beta.renmaitech.com/bigLogo.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
